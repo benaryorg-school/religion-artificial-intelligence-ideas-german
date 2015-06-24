@@ -18,7 +18,8 @@ Passagen die auf moralische und ethische Themen bezogen sind und zu meiner
 eigenen Meinung gehören auch als solche gekennzeichnet.
 
 Ich habe die einzelnen Unterpunkte mehrmals neu angeordnet, also entschuldige
-ich mich, sollte ich gröbere 
+ich mich, sollte ich gröbere Fehler bezüglich des Zusammenhangs oder der
+Vollständigkeit gemacht haben.
 
 # Typen
 
@@ -32,7 +33,7 @@ Gibt im Hintergrund gespeichertes Wissen wider.
 
 Diese Art der KI gibt es vielfach, ein einfaches Beispiel wäre
 [Cleverbot](http://cleverbot.com).
-Die Schwierigkeit bei der Implementierund dürfte eigentlich nur sein die
+Die Schwierigkeit bei der Implementierung dürfte eigentlich nur sein die
 Kommunikation zwischen Mensch und Maschine mithilfe menschlicher Sprache zu
 gestalten.
 
@@ -40,7 +41,7 @@ Die Daten werden hierbei aus verschiedenen Quellen bezogen.
 So könnte man eine „allwissende“ KI bauen die im Hintergrund Wikipedia ausliest
 und dort die benötigten Informationen extrahiert.
 Man könnte aber auch, wie es bei Cleverbot der Fall ist, die Eingaben der
-Nutzer, beziehungsweise den Zusammenhang zwischen Aktion und Reaktion in einer
+Nutzer beziehungsweise den Zusammenhang zwischen Aktion und Reaktion in einer
 Datenbank speichern um bei einer ähnlichen Aktion die gleiche Reaktion
 widerzugeben.
 
@@ -50,7 +51,7 @@ Ein großes Anwendungsgebiet hierfür ist die Spieleindustrie.
 
 Dies ist hier nicht als Hauptbeispiel angeführt weil es so wichtig in diesem
 Bereich ist, dies wäre zum Beispiel in der Automatisierungstechnologie viel
-stärker, sondern weil hier gezielt versucht wird das verhalten eines Computers
+stärker, sondern weil hier gezielt versucht wird das Verhalten eines Computers
 so menschlich wie möglich zu machen.
 
 Es ist nicht schwierig eine KI immer richtig liegen zu lassen oder jeden Schuss
@@ -127,9 +128,9 @@ Im Unterricht wurden alltägliche Anwendungen aufgezählt wie zum Beispiel:
 
 _Beide Bereiche erinnern mich sehr stark an den Film_ „I Robot“.
 In diesem gibt es sowohl Protesen als auch vollständige „Haushaltsroboter“ die
-alles, von Kochen über Wäsche waschen bis hin zum Babysitten erledigen.
-Wie für einen Film übrig kommt es anschließend zum Aufstand der zentralen KI und
-der Rettung der Welt.
+alles, von Kochen über Wäsche waschen bis hin zum Babysitten, erledigen.
+Wie für einen Film üblich kommt es anschließend zum Aufstand der zentralen KI
+und der Rettung der Welt.
 Ein typischer Film also.
 
 ## Robotik
@@ -181,7 +182,7 @@ man dann nicht sagen dass man soetwas nicht besitzen kann?_
 
 ## Aus Sicht der Maschine
 
-_Stellen wir uns vor wir erschaffen eine perfekte KI, die selbst denkt._
+_Stellen wir uns vor, wir erschaffen eine perfekte KI, die selbst denkt._
 
 _Stellen wir uns weiters vor, diese KI überlegt ein wenig, berechnet voraus und
 behauptet dann, wir seien schlecht und versucht die gesamte Menschheit
@@ -213,8 +214,8 @@ An diesem Punkt:
 
 Ich würde all diese Ideen und Gedankengänge gerne fortführen, aber dies ist
 aufgrund meiner begrenzten Zeit, Mittel und alleine des Umfangs der erreicht
-werden würde sehr schwierig.
+werden würde, sehr schwierig.
 
-Ich stehe jederzeit zur Verfügung sollte jemand weiter diskutieren oder
+Ich stehe jederzeit zur Verfügung, sollte jemand weiter diskutieren oder
 philosophieren wollen.
 
